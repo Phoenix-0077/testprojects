@@ -67,10 +67,7 @@ body{
     border-width: 1px;
     border-style: solid;
     border-color:  #E56981;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
+    border-radius: 3px 3px 3px 3px;
 }
 #b2{
     position:relative;
